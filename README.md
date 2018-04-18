@@ -1,10 +1,13 @@
-# Exoplanet Hunter
+# Exoplanet Hunter [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+Finding exoplanet candidates from telescope data
 
 ![alt text](http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/embed/public/2018/03/15/kepler-space-telescope.jpg "Kepler Space Telescope")
 
-Discovering exoplanets from NASA's Kepler space telescope data
+### Data
+The Kepler space telescope collects data of a star's brightness over time. This data is available to the public (thanks NASA).
 
-When a planet passes in between its star and us on Earth, there's a dip in the star's luminous flux (measure of the perceived power of light). Much like putting your hand between your eyes and the Sun. This can measured. We look for cyclic dips in the star's luminous flux. This is a sign that a planet is orbiting the star. This is how we hunt for exoplanets.
+### Detection
+When a planet passes in front of a star, it brightness dims. Us on Earth can detect this dimming using the Kepler space telescope. If the dimming occurs regularly (e.g. every three days), then a planet may be orbiting that star. This is how we hunt for exoplanet candidates.
 
 ### Raw Data
 The below graph shows a star's lumination over time. Notice the cyclic dips?
