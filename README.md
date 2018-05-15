@@ -22,5 +22,13 @@ It appears that Kepler's sensors produces error over time
 
 ![alt text](/images/exo5.png "Exoplanet")
 
+### Data Preprocessing
+Goals:
+* Smoothing data
+* Preparing data for modeling
+
+### Analysis
+<In progress>
+
 ### Future
 The TESS satellite will scan a much larger portion of the sky compared to Kepler
